@@ -7,7 +7,7 @@
 				<enabled>true</enabled>
 				<name>FileManager</name>
 			</startupnotify>
-			<command>pcmanfm-qt</command>
+			<command>thunar</command>
 		</action>
 	</keybind>
 
@@ -17,7 +17,7 @@
 				<enabled>true</enabled>
 				<name>Files</name>
 			</startupnotify>
-			<command>thunar</command>
+			<command>pcmanfm</command>
 		</action>
 	</keybind>
 
